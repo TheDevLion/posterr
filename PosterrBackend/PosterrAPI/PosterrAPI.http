@@ -1,0 +1,6 @@
+@PosterrAPI_HostAddress = http://localhost:5225
+
+GET {{PosterrAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
